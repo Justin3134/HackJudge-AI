@@ -1,0 +1,8 @@
+{
+  "name": "HackJudge AI",
+  "description": "AI-powered hackathon coach that analyzes judges and provides real-time demo feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
